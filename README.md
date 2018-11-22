@@ -92,4 +92,24 @@ Ovidio Daniel Cantu Puente | A00818034
  
 - V4.0
 
- Made by Ovidio. Application of Trapezoidal function. 
+ Made by Ovidio. Application of Trapezoidal function. Without modification to interface.
+ 
+- V4.0.1
+
+ Made by Mildred. Correction of Trapezoidal function. Solution of some errors in code. A Segments label is added.
+
+- V4.1
+
+ Made by Ovidio. Application of Simpson function. Without modification to interface.
+ 
+- V4.1.1
+
+ Made by Mildred. Reapplication of Simpson function. Recoding the function. Reorganization of the displayed answer.
+ 
+- V5.0
+
+ Made by Sergio. Application of Euler function. Without modification to interface.
+ 
+- V5.1
+
+ Made by Sergio. Application of Runge-kutta function. Without modification to interface.
